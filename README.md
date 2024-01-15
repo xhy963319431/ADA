@@ -15,7 +15,7 @@ Then simply run the following command to reproduce the experiments on correspond
 ```
 python app.py --flagfile ./config/xxx.cfg
 ```
-# Citation
+## Citation
 
 > @inproceedings{zhang2023adaptive,
   title={An Adaptive Denoising Recommendation Algorithm for Causal Separation Bias},
