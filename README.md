@@ -2,7 +2,7 @@
 
 This is the official implementation of our SMP2023 paper:  
 
-Zhang Qiuling, Huayang Xu, and Jianfang Wang. [**An Adaptive Denoising Recommendation Algorithm for Causal Separation Bias**](https://link.springer.com/chapter/10.1007/978-981-99-7596-9_14) Chinese National Conference on Social Media Processing. Singapore: Springer Nature Singapore, 2023.
+Zhang Qiuling, Huayang Xu, and Jianfang Wang. [**An Adaptive Denoising Recommendation Algorithm for Causal Separation Bias**](https://link.springer.com/chapter/10.1007/978-981-99-7596-9_14), Chinese National Conference on Social Media Processing. Singapore: Springer Nature Singapore, 2023.
 
 ## Model training
 
